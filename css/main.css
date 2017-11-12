@@ -1,0 +1,168 @@
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    background: url('../img/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+  }
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "Josefin Slab", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 4.0em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+
+.centered {
+    text-align: center;
+}
+
+.white-text {
+    color: white;
+}
+
+.text-shadow {
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+hr.divider {
+    border-color: #292b2c;
+    max-width: 250px;
+    border-width: 3px;
+  }
+
+.clear-bg {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.topMargin {
+    margin-top: 50px;
+}
+
+.divPadding {
+    padding: 30px;
+}
+
+.carousel-inner .item img {
+    width: 100%;
+}
+
+.tagline-upper {
+  font-size: 5.0em;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.tagline-lower {
+  font-size: 2.2em;
+  line-height: 1;
+  font-weight: 600;
+}
+
+.text-expanded {
+  letter-spacing: 2px;
+}
+
+.font-weight {
+    font-weight: bold;
+}
+
+
+.float-left {
+    float: left;
+    padding-right: 20px;
+}
+
+.navbar-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+    color: #5E5E5E;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #5E5E5E;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #413F5E;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #413F5E;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: black;
+}
+
+.white-bg {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.title-img-bg-1 {
+    background-image : url(../img/slide-1.jpg);
+}
+ 
+.title-img-bg-2 {
+    background-image : url(../img/slide-2.jpg);
+}
+
+.title-img-bg-3 {
+    background-image : url(../img/slide-3.jpg);
+}
+
+.title_img {
+    background-size: cover;
+    background-position: center center;
+}
+
+.divBorder {
+    border: 20px solid white;
+}
+
+.mask {
+    box-shadow:0 0 0 300px rgba(0, 0, 0, 0.7) inset;
+}
+
+.titleBtn {
+    margin-top: 20px;
+    margin-bottom: 200px;
+    color: black;
+}
+
+#map {
+    height: 300px;
+}
+
+
+div.gallery  img {
+    padding-top: 4px;
+}
+
+
+
+
+
+
+
