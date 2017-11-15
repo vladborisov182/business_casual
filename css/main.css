@@ -1,6 +1,7 @@
 body {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -160,6 +161,13 @@ div.gallery  img {
     padding-top: 4px;
 }
 
+
+@media only screen and (max-device-width: 480px) {
+    div.carouselForScreen {
+        min-width: 100%;
+        padding: 20px 5px 0 5px;
+    }
+}
 
 
 
